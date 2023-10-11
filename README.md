@@ -21,7 +21,7 @@ This program can be used as a standalone application for sorting integer arrays.
 
 2. Create an instance of the `MergeSort` class.
 
-3. Use the `sort` method to sort your array.
+3. Use/call the `divide` method, which will call `conquer` method to perform divide and conquer strategy to sort the vector.
 
 You can modify the program as needed to work with your specific requirements.
 
